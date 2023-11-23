@@ -9,5 +9,5 @@ let zero = 1000 - 1000;
 typeof true; //Expression
 let name = "John";
 3 > 5; //Expression
-10 == 100;
+10 == 100; //Expression
 200; //Expression
